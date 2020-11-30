@@ -20,6 +20,7 @@ public class SFDCStopTeamController {
             this.picURL = picURL;
             this.contributionDate = contributionDate;
             this.trailheadURL = trailheadURL;
+            system.System.debug('Hello World');
         }
     }
 
